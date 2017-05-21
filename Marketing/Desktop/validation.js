@@ -1,3 +1,5 @@
+// Added comment to move forward in the js-validation branch
+
 //form validation functions for marketing website
 var radbase = "radNo";
 var radnm = "";
